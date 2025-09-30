@@ -1,2 +1,3 @@
 # toy_ds_project
-project creation date: September 29, 2025
+Project creation date: September 29, 2025
+Author: Mandala Lin
